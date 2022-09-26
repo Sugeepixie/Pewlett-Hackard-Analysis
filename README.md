@@ -8,14 +8,14 @@
  * Created a table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955
     * Used Distinct funtion to get most recent title of each employee without duplicates and Count function to get number of retirement age employees by most recent job title
     * Our analysis helped us determine how many positions will be opened for a specific title
-  Image 1
+  ![retiring_titles](https://user-images.githubusercontent.com/76926148/192172092-28ddbbe5-2bf9-4bac-9166-c69982f9fa26.PNG)
+
 
 ###  The Employees Eligible for the Mentorship Program
 * Created a table that holds current employees who were born between January 1, 1965 and December 31, 1965 that are eligible for mentorship
    * Used Distinct funtion to get first ooccurence of the employee 
    * Filtered based on birth date and to date 
- Image 2
-
+ ![mentorship_eligibility](https://user-images.githubusercontent.com/76926148/192172113-401e043c-a741-4e63-9f05-c5f45c9c8887.PNG)
 
  ## Pewlett-Hackard Summary
 
